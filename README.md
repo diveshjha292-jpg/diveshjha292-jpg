@@ -66,8 +66,8 @@ I'm a passionate **Data Analyst** based in Ludhiana, Punjab, dedicated to transf
 ### 💙 Let's Connect!
 !
 - 📧 Email: diveshjha292@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/divesh-jha](https://linkedin.com/in/divesh-jha)
-- 🐦 Twitter: [@divesh_jha](https://twitter.com/divesh_jha)
+- 💼 LinkedIn: )
+- 🐦 Twitter
 
 ### 🔒 Cybersecurity Learning Path
 - - **Short-term Goals:** Learn network security fundamentals & gain CEH preparation knowledge
