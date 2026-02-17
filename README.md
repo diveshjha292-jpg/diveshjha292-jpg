@@ -13,11 +13,11 @@ I'm a passionate **Data Analyst** based in Ludhiana, Punjab, dedicated to transf
   - Building predictive models
   - Process automation with Python & Excel
   - Data-driven decision making
-- 🌱 **Currently Learning**: Advanced Python for Data Science, Machine Learning, AWS Analytics
+- 🌱 **Currently Learning**: Advanced Python for Data Science, Machine Learning, AWS Analytics, Cybersecurity & Ethical Hacking
 - 📊 **Portfolio**: Check out my projects below for real-world data analysis work
 
 ### 🛠️ Technologies & Tools
-**Languages:**
+**Languages:** 
 - Python • SQL • C++ • JavaScript • HTML/CSS
 
 **Data & Analytics:**
@@ -52,17 +52,28 @@ I'm a passionate **Data Analyst** based in Ludhiana, Punjab, dedicated to transf
 ### 📊 Featured Projects
 - *Coming soon: Real data analysis projects and dashboards*
 
-### 💡 Interests
+55
+
 - Data Science & Machine Learning
 - Business Analytics
 - Cybersecurity
+-   - **Network Security** & threat analysis
+    -   - **Ethical Hacking** & penetration testing concepts
+        -   - **Data Protection** & encryption fundamentals
 - AI-driven automation
 - Creating educational content about data analysis
 
-### 📫 Let's Connect!
+### 💙 Let's Connect!
+!
 - 📧 Email: diveshjha292@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/divesh-jha](https://linkedin.com/in/divesh-jha)
 - 🐦 Twitter: [@divesh_jha](https://twitter.com/divesh_jha)
+
+### 🔒 Cybersecurity Learning Path
+- - **Short-term Goals:** Learn network security fundamentals & gain CEH preparation knowledge
+  - - **Mid-term Goals:** Obtain ethical hacking certifications & understand penetration testing methodologies
+    - - **Focus Areas:** Threat analysis, vulnerability assessment, secure coding, and incident response
+      - - **Integration:** Combining cybersecurity knowledge with data analytics for security intelligence
 - 📍 Location: Ludhiana, Punjab, India
 
 ### 📊 GitHub Statistics
