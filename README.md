@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi there 👋 I'm Divesh Jha
+## Data Analyst | Python Developer | AI/ML Enthusiast
 
-<!--
-**diveshjha292-jpg/diveshjha292-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=diveshjha292-jpg&color=blue)
 
-Here are some ideas to get you started:
+### 👨‍💼 About Me
+I'm a passionate **Data Analyst** based in Ludhiana, Punjab, dedicated to transforming raw data into actionable insights. Currently pursuing a **BCA** from Shoolini University while continuously upskilling in **Python**, **SQL**, **Power BI**, and **Data Visualization**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 **Specialization**: Data Analytics, Business Intelligence, Data Visualization
+- 💻 **Tech Stack**: Python, SQL, Excel, Power BI, Power Query, Pandas, NumPy, Matplotlib
+- 🎯 **Focus Areas**: 
+  - Creating insightful dashboards
+  - Building predictive models
+  - Process automation with Python & Excel
+  - Data-driven decision making
+- 🌱 **Currently Learning**: Advanced Python for Data Science, Machine Learning, AWS Analytics
+- 📊 **Portfolio**: Check out my projects below for real-world data analysis work
+
+### 🛠️ Technologies & Tools
+**Languages:**
+- Python • SQL • C++ • JavaScript • HTML/CSS
+
+**Data & Analytics:**
+- Microsoft Excel (Advanced - VBA, Power Query) • Power BI • Google Sheets • Tableau (basics)
+
+**Databases:**
+- MySQL • PostgreSQL • MongoDB (basics)
+
+**Tools & Platforms:**
+- Git/GitHub • VS Code • Google Colab • Jupyter Notebook • Excel • Google Analytics
+
+**AI/ML:**
+- TensorFlow • Scikit-learn • NLP basics
+
+### 📈 What I Do
+✅ **Data Analysis & Visualization**: Transform complex datasets into clear, actionable insights  
+✅ **Dashboard Creation**: Design interactive dashboards using Power BI & Excel  
+✅ **Python Automation**: Build scripts to automate repetitive data tasks  
+✅ **Business Analytics**: Support data-driven decision-making with KPI tracking  
+✅ **Statistical Analysis**: Perform descriptive and inferential analysis  
+
+### 🎓 Education
+- **BCA (Bachelor of Computer Applications)** - Shoolini University (In Progress)
+- **CCC Certification** - NIELIT
+- **Self-Taught**: Python, SQL, Data Analytics, Digital Marketing
+
+### 🏢 Professional Experience
+- Digital Marketing Executive roles
+- Back Office support with Excel-based analytics
+- Project work involving data analysis & KPI reporting
+
+### 📊 Featured Projects
+- *Coming soon: Real data analysis projects and dashboards*
+
+### 💡 Interests
+- Data Science & Machine Learning
+- Business Analytics
+- Cybersecurity
+- AI-driven automation
+- Creating educational content about data analysis
+
+### 📫 Let's Connect!
+- 📧 Email: diveshjha292@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/divesh-jha](https://linkedin.com/in/divesh-jha)
+- 🐦 Twitter: [@divesh_jha](https://twitter.com/divesh_jha)
+- 📍 Location: Ludhiana, Punjab, India
+
+### 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diveshjha292-jpg&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diveshjha292-jpg&layout=compact&theme=dark)
+
+---
+
+*"Data is the new oil, and I'm here to refine it into valuable insights!" 📊*
+
+⭐ Feel free to explore my repositories and reach out for collaboration opportunities!
