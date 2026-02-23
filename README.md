@@ -1,88 +1,107 @@
-# Hi there 👋 I'm Divesh Jha
-## Data Analyst | Python Developer | AI/ML Enthusiast
+# 🔐 Divesh Jha - Ethical Hacker & Cybersecurity Professional
 
-![Profile views](https://komarev.com/ghpvc/?username=diveshjha292-jpg&color=blue)
+## 🛡️ Penetration Tester | Cybersecurity Enthusiast | Python Developer
 
-### 👨‍💼 About Me
-I'm a passionate **Data Analyst** based in Ludhiana, Punjab, dedicated to transforming raw data into actionable insights. Currently pursuing a **BCA** from Shoolini University while continuously upskilling in **Python**, **SQL**, **Power BI**, and **Data Visualization**.
+[![Profile views](https://komarev.com/ghpvc/?username=diveshjha292-jpg&color=red&style=flat)](https://github.com/diveshjha292-jpg)
 
-- 🔍 **Specialization**: Data Analytics, Business Intelligence, Data Visualization
-- 💻 **Tech Stack**: Python, SQL, Excel, Power BI, Power Query, Pandas, NumPy, Matplotlib
-- 🎯 **Focus Areas**: 
-  - Creating insightful dashboards
-  - Building predictive models
-  - Process automation with Python & Excel
-  - Data-driven decision making
-- 🌱 **Currently Learning**: Advanced Python for Data Science, Machine Learning, AWS Analytics, Cybersecurity & Ethical Hacking
-- 📊 **Portfolio**: Check out my projects below for real-world data analysis work
+### 🔒 About Me
 
-### 🛠️ Technologies & Tools
-**Languages:** 
-- Python • SQL • C++ • JavaScript • HTML/CSS
+I'm a passionate **Cybersecurity Enthusiast & Ethical Hacker** based in **Ludhiana, Punjab**, dedicated to building expertise in **penetration testing**, **network security**, **vulnerability assessment**, and **threat analysis**. Currently pursuing a **BCA** from Shoolini University while actively practicing hands-on hacking and developing security tools.
 
-**Data & Analytics:**
-- Microsoft Excel (Advanced - VBA, Power Query) • Power BI • Google Sheets • Tableau (basics)
+- 🎯 **Specialization**: Ethical Hacking, Penetration Testing, Network Security, Vulnerability Assessment
+- 🔍 **Core Skills**:
+  - Network & Web Application Penetration Testing
+  - Vulnerability Analysis & Exploitation
+  - Linux System Administration & Hardening
+  - Malware Analysis & Reverse Engineering
+  - Security Automation & Python Scripting
+- 💻 **Tech Stack**: Python, Bash/Shell, Metasploit, Burp Suite, Wireshark, Nmap, Kali Linux
+- 🎓 **Certifications in Progress**: CEH, eJPT, OSCP roadmap
+- 🌱 **Currently Learning**: Advanced Penetration Testing, Red Team Operations, Cloud Security
 
-**Databases:**
-- MySQL • PostgreSQL • MongoDB (basics)
+### 🛠️ Cybersecurity Arsenal
 
-**Tools & Platforms:**
-- Git/GitHub • VS Code • Google Colab • Jupyter Notebook • Excel • Google Analytics
+**Programming & Scripting:**
+- 🐍 **Python** - Exploitation scripts, security tools, automation
+- 🐚 **Bash/Shell** - Linux exploitation, system administration
+- 🔴 **C** - Buffer overflow, low-level exploitation
+- 🌐 **JavaScript** - Web application testing
 
-**AI/ML:**
-- TensorFlow • Scikit-learn • NLP basics
+**Penetration Testing Frameworks & Tools:**
+- **Exploitation**: Metasploit, Searchsploit, ExploitDB, Burp Suite
+- **Network Analysis**: Wireshark, Nmap, Netcat, Aircrack-ng, Tcpdump
+- **Web Testing**: SQLMap, OWASP ZAP, Burp Suite Pro, Proxy tools
+- **Post-Exploitation**: Mimikatz, PowerShell, Custom payload generation
+- **Forensics**: Volatility, Autopsy, IDA Pro, Ghidra
 
-### 📈 What I Do
-✅ **Data Analysis & Visualization**: Transform complex datasets into clear, actionable insights  
-✅ **Dashboard Creation**: Design interactive dashboards using Power BI & Excel  
-✅ **Python Automation**: Build scripts to automate repetitive data tasks  
-✅ **Business Analytics**: Support data-driven decision-making with KPI tracking  
-✅ **Statistical Analysis**: Perform descriptive and inferential analysis  
+**Operating Systems & Labs:**
+- 🐧 **Linux** - Kali Linux, Ubuntu, CentOS (Advanced user)
+- 🪟 **Windows** - Systems, AD, PowerShell exploitation
+- 🌐 **Virtual Labs**: HackTheBox, TryHackMe, DVWA, OverTheWire
 
-### 🎓 Education
-- **BCA (Bachelor of Computer Applications)** - Shoolini University (In Progress)
-- **CCC Certification** - NIELIT
-- **Self-Taught**: Python, SQL, Data Analytics, Digital Marketing
+**Other Skills:**
+- Docker container security testing
+- AWS/Cloud security basics
+- SIEM concepts (Splunk, ELK)
+- Git & secure code practices
 
-### 🏢 Professional Experience
-- Digital Marketing Executive roles
-- Back Office support with Excel-based analytics
-- Project work involving data analysis & KPI reporting
+### ⚔️ What I Do
 
-### 📊 Featured Projects
-- *Coming soon: Real data analysis projects and dashboards*
+✅ **Penetration Testing** - Comprehensive security assessments of networks and applications
+✅ **Exploit Development** - Custom PoC scripts and exploitation tools
+✅ **Vulnerability Research** - Identifying and analyzing security flaws
+✅ **Malware Analysis** - Reverse engineering and behavioral analysis
+✅ **Security Automation** - Python scripts for automated testing workflows
+✅ **Red Teaming** - Authorized simulated attacks
+✅ **Security Training** - Creating educational content on cybersecurity
 
-55
+### 🎓 Education & Certifications
 
-- Data Science & Machine Learning
-- Business Analytics
-- Cybersecurity
--   - **Network Security** & threat analysis
-    -   - **Ethical Hacking** & penetration testing concepts
-        -   - **Data Protection** & encryption fundamentals
-- AI-driven automation
-- Creating educational content about data analysis
+**Academic:**
+- 📚 **BCA** - Shoolini University (In Progress)
+- 🎯 **12th & 10th** - BSEB (English Medium)
+
+**Certifications & Training:**
+- 🔐 **CEH (Certified Ethical Hacker)** - In preparation
+- 🎓 **eJPT (eLearnSecurity Junior Penetration Tester)** - Completed
+- 🏆 **TryHackMe & HackTheBox** - Active CTF participant
+- 📖 **Multiple Cybersecurity Courses** - Python, Linux, Penetration Testing
+- 🌐 **OWASP Top 10 & Web Security** - Advanced understanding
+
+### 📊 What's Next
+
+**Short-term (3-6 months):**
+- Master Metasploit & exploitation techniques
+- Complete CEH certification
+- Build penetration testing portfolio
+
+**Mid-term (6-12 months):**
+- Obtain CEH & eJPT certifications
+- Develop expertise in web app & network testing
+- Real-world penetration testing experience
+
+**Long-term (1-2 years):**
+- Pursue OSCP (Offensive Security Certified Professional)
+- Specialize in Red Team operations
+- Contribute to open-source security projects
 
 ### 💙 Let's Connect!
-!
-- 📧 Email: diveshjha292@gmail.com
-- 💼 LinkedIn: )
-- 🐦 Twitter
 
-### 🔒 Cybersecurity Learning Path
-- - **Short-term Goals:** Learn network security fundamentals & gain CEH preparation knowledge
-  - - **Mid-term Goals:** Obtain ethical hacking certifications & understand penetration testing methodologies
-    - - **Focus Areas:** Threat analysis, vulnerability assessment, secure coding, and incident response
-      - - **Integration:** Combining cybersecurity knowledge with data analytics for security intelligence
-- 📍 Location: Ludhiana, Punjab, India
+- 📧 **Email**: [diveshjha292@gmail.com](mailto:diveshjha292@gmail.com)
+- 💼 **LinkedIn**: [divesh-jha](https://linkedin.com/in/divesh-jha-a5b4b9261)
+- 🐦 **Twitter**: [@diveshjha292](https://twitter.com/diveshjha292)
+- 📍 **Location**: Ludhiana, Punjab, India
 
-### 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diveshjha292-jpg&show_icons=true&theme=dark)
+### 🏆 Opportunities
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diveshjha292-jpg&layout=compact&theme=dark)
+- 🔍 Penetration Testing internships
+- 🏢 Security research roles
+- 🤝 Collaborative hacking projects
+- 📚 Cybersecurity mentorship
+- 🎓 CTF team participation
 
 ---
 
-*"Data is the new oil, and I'm here to refine it into valuable insights!" 📊*
+**🛡️ "Keep Learning, Keep Hacking, Keep Securing!" 🛡️**
 
-⭐ Feel free to explore my repositories and reach out for collaboration opportunities!
+⭐ Feel free to explore my repositories and collaborate on cybersecurity projects!
