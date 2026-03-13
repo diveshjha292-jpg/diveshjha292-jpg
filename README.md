@@ -88,8 +88,8 @@ I'm a passionate **Cybersecurity Enthusiast & Ethical Hacker** based in **Ludhia
 ### 💙 Let's Connect!
 
 - 📧 **Email**: [diveshjha292@gmail.com](mailto:diveshjha292@gmail.com)
-- 💼 **LinkedIn**: [divesh-jha](https://linkedin.com/in/divesh-jha-a5b4b9261)
-- 🐦 **Twitter**: [@diveshjha292](https://twitter.com/diveshjha292)
+- 💼 **LinkedIn**: 
+- 🐦 **Twitter**: 
 - 📍 **Location**: Ludhiana, Punjab, India
 
 ### 🏆 Opportunities
